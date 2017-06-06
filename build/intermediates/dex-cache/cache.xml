@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/alfonkris/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/alfonkris/AndroidStudioProjects/Paris Vacation/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0_e653848e9f71f486dada3afc9d755034c402eeae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alfonkris/AndroidStudioProjects/Paris Vacation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/alfonkris/AndroidStudioProjects/Paris Vacation/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.0_a92506e8978d0b99c4551198e8e382dc3ec115b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alfonkris/AndroidStudioProjects/Paris Vacation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/alfonkris/AndroidStudioProjects/Paris Vacation/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.0_ed8033ee7a565ed83db5ad2c89ec8141dbe3fd19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alfonkris/AndroidStudioProjects/Paris Vacation/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/home/alfonkris/AndroidStudioProjects/Paris Vacation/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.0_3d57da8920d927977c5efad75c2b67f6015ed498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alfonkris/AndroidStudioProjects/Paris Vacation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/alfonkris/AndroidStudioProjects/Paris Vacation/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0_05c340d935c76f8959ddc122f60803e005f99762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alfonkris/AndroidStudioProjects/Paris Vacation/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/home/alfonkris/AndroidStudioProjects/Paris Vacation/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.0_cef3c79ae3cf41f576a526b5a02af55dabf58e79.jar" />
+    </item>
+
+</items>

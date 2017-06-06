@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Paris Vacation</string>
+    <string-array name="nature_titles">
+        <item>Luxembourg Garden</item>
+        <item>Seine River</item>
+        <item>Buttes Chaumont</item>
+    </string-array>
+    <string-array name="history_titles">
+        <item>Eiffel Tower</item>
+        <item>Arc de Triomphe</item>
+        <item>Louvre</item>
+    </string-array>
+    <string-array name="food_titles">
+        <item>Dans le Noir</item>
+        <item>Cafe de Flore</item>
+        <item>Bel Canto</item>
+    </string-array>
+
+    <string-array name="nature_subtitles">
+        <item>Garden</item>
+        <item>River</item>
+        <item>Garden</item>
+    </string-array>
+    <string-array name="history_subtitles">
+        <item>Building</item>
+        <item>Building</item>
+        <item>Building</item>
+    </string-array>
+    <string-array name="food_subtitles">
+        <item>Restaurant</item>
+        <item>Cafe</item>
+        <item>Restaurant</item>
+    </string-array>
+
+    <string-array name="nature_description">
+        <item>Taman Luxembourg, merupakan salah satu taman terbesar di tengah kota Paris. Boleh dibilang berada di kilometer nol,. Tidak jauh dari Universitas Sorbonne. Persis di belakang Gedung Senat yang megah. Dari Koperasi Restoran Indonesia, hanya berjarak 100 meter. Kurang lebih satu kilometer dari Sungai Seine yang membelah Paris yang dibayangi oleh Katedral Nontre Dame dan gedung-gedung bersejarah. Cara paling sederhana dan cepat untuk mengetahui sejarah Paris adalah naik kapal menelusuri sungai dan mengitar Pulau Saint Louis yang terletak di tengah sungai. Kapzl kalian akan dikawal dibuntutui oleh ratusan camar putih. Selama perjalanan, kalian akan mendengar tuturan sejarah Paris yang dituturkan secara garis besar kepada para penumpang.</item>
+        <item>Sungai Seine, sebuah sungai yang mengalir di kawasan ini perlahan mulai manjadi primadona wisatawan dari berbagai penjuru dunia.Sungai sepanjang 776 kilometer ini menjadi jalur air komersial yang penting di Paris. Puluhan jembatan pun kini bertengger rapi di atas sungai ini. Banyak ikon Paris yang dapat dinikmati dari pinggir sungai Seine, seperti La Conciergerie, taman mungil bernama Jardin Tino Rossi hingga salah satu museum unik Paris yakni Museum Terbuka yang bernama Musee de la Sculpture en Plein Air.</item>
+        <item>Parc des Buttes-Chaumont adalah salah satu taman terbesar di Paris yang terkenal dengan Temple de la Sibylle yang terinspirasi dari Temple of Vesta di Tivoli, Italia. Bangunan tersebut berada di atas tebing setinggi lima puluh meter di atas perairan danau buatan. Di taman ini juga terdapat gua yang memiliki air terjun buatan serta jembatan gantung yang menjadi primadona pengunjung. Letaknya yang berada di bukit membuat pengunjung dapat menikmati pemandangan kota dari ketinggian, terutama daerah Montartre.</item>
+    </string-array>
+    <string-array name="history_description">
+        <item>Menara Eiffel merupakan sebuah menara besi yang dibangun di Champ de Mars di tepi Sungai Seine di Paris. Menara ini telah menjadi ikon global Perancis dan salah satu struktur terkenal di dunia. Dinamai sesuai nama perancangnya, Gustave Eiffel , Menara Eiffel adalah bangunan tertinggi di Paris dan salah satu struktur terkenal di dunia. Lebih dari 200.000.000 orang telah mengunjungi menara ini sejak pembangunannya tahun 1889 dan kala itu strukturnya menjadi yang tertinggi di dunia. Eiffel dibangun antara 1887 dan 1889 sebagai pintu masuk Exposition Universelle, Pameran Dunia yang merayakan seabad Revolusi Prancis. Gustave Eiffel sebenarnya berencana membangun menara di Barcelona, untuk Pameran Universal 1888, tapi para pihak yang bertanggung jawab di balai kota Barcelona menganggapnya aneh dan mahal, dan tidak cocok dengan kota itu.</item>
+        <item>Menumen bangunan Arc de Triomphe  merupakan salah satu tempat terkenal di Paris. Monumen ini terdapat di tengah Place Charles de Gaulle, di penghujung barat Champs Elysees. Monumen Arc de Triomphe bagi orang Perancis adalah untuk memperingati dan menghormati orang-orang yang berjuang dan mati pagi Perancis dalan revolusi Perancis dan Perang Napoleon. Dibawah monumen ini terdapat makam prajurit tak dikenal dari Perang Dunia I.</item>
+        <item>Louvre pada awalnya dirancang oleh seorang pria Perancis bernama Philip Augustus II pada abad ke-12. Pada awalnya, Louvre dibuat sebagai benteng pertahanan. Benteng ini lantas diperluas sedikit demi sedikit hingga menjadi istana tempat bersemayam raja-raja Perancis. Pada tahun 1682, Louis XIV memutuskan pindah ke Istana Versailles sebagai tempat kediamannya sehingga Louvre berubah fungsi menjadi tempat penyimpanan berbagai koleksi kerajaan. Selama Revolusi Prancis, Louvre diubah menjadi museum untuk menyimpan berbagai benda berharga. Saat ini, terdapat hampir 35.000 objek dari tahun 6000 SM hingga abad ke-19 dipamerkan di area seluas 60.600 meter persegi.</item>
+    </string-array>
+    <string-array name="food_description">
+        <item>Jika Anda pernah di Paris dan ingin mencoba salah satu yang paling asli pengalaman dinning kota cinta yang ditawarkan, daripada Anda harus mencoba Dans Le Noir? restoran. Tidak terlihat sangat mengesankan dari luar tetapi itu satu-satunya tempat di mana Anda dapat memiliki makan dalam kegelapan total. Segera setelah Anda memasukkan Dans Le Noir? Anda menemukan diri anda dalam cocktail lounge di mana Anda dapat menikmati minuman dan memilih apa yang akan Anda makan, sebelum dipandu ke sebuah kamar yang tenang gelap oleh seorang pelayan. Begitu tiba di sana Anda menemukan Anda benar-benar tidak bisa melihat apa-apa dan Anda hanya bisa mendengar bisikan dari tamu lain.</item>
+        <item>Ingin mencoba nongkrong di salah satu kafe paling bergengsi di Paris? Cafe de Flore adalah jawabannya karena selain menjadi kafe paling tua di Paris, kafe yang sudah eksis sejak tahun 1885 ini mempunyai interior dan eksterior super klasik bila dilihat dari desainnya. Walau sudah melalui Perang Dunia II, tidaklah banyak perubahan yang dialami oleh kafe ini. Wisatawan dijamin menyukai gaya art deco yang dibawa pada interiornya, sementara eksteriornya betul-betul khas Perancis dengan gaya klasiknya.</item>
+        <item>Yang suka berwisata kuliner, tentu Bel Canto tak boleh sampai terlewatkan. Ketika masuk ke dalam restoran satu ini, Anda akan menemukan warna safran dan api yang mendukung nuansa keemasan pada interiornya. Setiap malamnya, tempat ini selalu dipenuhi oleh sekelompok pianis dan penyanyi liris. Di restoran inilah Anda akan dapat menyaksikan penyanyi solo, kuartet atau duo menampilkan suara emas mereka dalam membawakan cuplikan opera The Magic Flute atau Carmen dari satu meja ke meja lainnya seraya menghidangkan menu kepada para pelanggan.</item>
+    </string-array>
+
+    <string-array name="nature_locations">
+        <item>48.847140, 2.336018</item>
+        <item>48.600204, 2.392637</item>
+        <item>48.878393, 2.381439</item>
+    </string-array>
+    <string-array name="history_locations">
+        <item>48.858328, 2.294503</item>
+        <item>48.873749, 2.295382</item>
+        <item>48.860632, 2.338116</item>
+    </string-array>
+    <string-array name="food_locations">
+        <item>48.861319, 2.350572</item>
+        <item>48.854145, 2.332605</item>
+        <item>48.854732, 2.354416</item>
+    </string-array>
+</resources>
+
+
